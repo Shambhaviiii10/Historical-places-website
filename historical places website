@@ -1,0 +1,51 @@
+ <!DOCTYPE html>
+<html>
+<head>
+	<title>Historical Places in India</title>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<style>
+		body {
+			margin: 0;
+			font-family: Arial, Helvetica, sans-serif;
+		}
+        </style>
+</head>
+<body>
+	<div class="header">
+		<h1>Historical Places in India</h1>
+	</div>
+	<div class="container">
+		<div class="box">
+			<img src="https://www.tajmahal.gov.in/images/night-view-taj-mahal.jpg" alt="Taj Mahal">
+			<p>The Taj Mahal is an ivory-white marble mausoleum on the right bank of the Yamuna river in the Indian city of Agra. It was commissioned in 1632 by the Mughal emperor Shah Jahan to house the tomb of his favourite wife, Mumtaz Mahal.</p>
+		</div>
+		<div class="box">
+			<img src="https://www.fabhotels.com/blog/wp-content/uploads/2019/10/Charminar-1024x642.jpg" alt="Charminar">
+			<p>The Charminar is a monument and mosque located in Hyderabad, Telangana, India. The landmark has become a global icon of Hyderabad, listed among the most recognized structures of India.</p>
+		</div>
+		<div class="box">
+			<img src="https://www.holidify.com/images/cmsuploads/compressed/8581217757_7d505b6f23_b_20171226135409.jpg" alt="Hampi">
+         </style>
+</head>
+<body>
+	<div class="header">
+		<h1>Historical Places in India</h1>
+	</div>
+	<div class="container">
+		<div class="box">
+			<img src="https://www.tajmahal.gov.in/images/night-view-taj-mahal.jpg" alt="Taj Mahal">
+			<p>The Taj Mahal is an ivory-white marble mausoleum on the right bank of the Yamuna river in the Indian city of Agra. It was commissioned in 1632 by the Mughal emperor Shah Jahan to house the tomb of his favourite wife, Mumtaz Mahal.</p>
+		</div>
+		<div class="box">
+			<img src="https://www.fabhotels.com/blog/wp-content/uploads/2019/10/Charminar-1024x642.jpg" alt="Charminar">
+			<p>The Charminar is a monument and mosque located in Hyderabad, Telangana, India. The landmark has become a global icon of Hyderabad, listed among the most recognized structures of India.</p>
+		</div>
+		<div class="box">
+			<img src="https://www.holidify.com/images/cmsuploads/compressed/8581217757_7d505b6f23_b_20171226135409.jpg" alt="Hampi">
+<p>Hampi is a village located in the state of Karnataka, India. It was once the It was once the capital of the Vijayanagara Empire and has many historical monuments and temples. Some of the notable places to visit in Hampi include the Virupaksha Temple, the Hampi Bazaar, and the Lotus Mahal.</p>
+</section>
+<section id="red-fort">
+  <h2>Red Fort</h2>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Red_Fort_in_Delhi_006.jpg/1280px-Red_Fort_in_Delhi_006.jpg" alt="Red Fort">
+  <p>The Red Fort is a fort located in Delhi, India.  The Mughal Emperor Shah Jahan was responsible for the construction of the Red Fort, which was intended to function as the palace fort for his capital city of Shahjahanabad. The fort, which encompasses a total area of 255 acres, is designed in a variety of architectural styles, including Persian, Hindu, Timurid, and Islamic. The monument got its name from the red sandstone that was used to construct its massive enclosing walls, which stretch for a total of 2.5 kilometres. While marble is used for the majority of the construction of the fort, red stone is used for a few specific parts of the structure. The building is in the shape of an irregular octagon, and in addition to turrets, bastions, pavilions, two gates, and a number of other sections, it also incorporates elements of garden design.
